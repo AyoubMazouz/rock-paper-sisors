@@ -1,0 +1,7 @@
+C:\Users\next\Desktop\documents\c# code\rock paper sisors\rock paper sisors\bin\Debug\rock paper sisors.exe.config
+C:\Users\next\Desktop\documents\c# code\rock paper sisors\rock paper sisors\bin\Debug\rock paper sisors.exe
+C:\Users\next\Desktop\documents\c# code\rock paper sisors\rock paper sisors\bin\Debug\rock paper sisors.pdb
+C:\Users\next\Desktop\documents\c# code\rock paper sisors\rock paper sisors\obj\Debug\rock paper sisors.csprojAssemblyReference.cache
+C:\Users\next\Desktop\documents\c# code\rock paper sisors\rock paper sisors\obj\Debug\rock paper sisors.csproj.CoreCompileInputs.cache
+C:\Users\next\Desktop\documents\c# code\rock paper sisors\rock paper sisors\obj\Debug\rock paper sisors.exe
+C:\Users\next\Desktop\documents\c# code\rock paper sisors\rock paper sisors\obj\Debug\rock paper sisors.pdb
